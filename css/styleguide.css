@@ -1,0 +1,7 @@
+:root {
+    --base-spacing-system-spacing-xs: 4px;
+    --base-spacing-system-spacing-sm: 8px;
+    --base-spacing-system-spacing-md: 16px;
+    --base-spacing-system-spacing-lg: 24px;
+    --base-spacing-system-spacing-xl: 32px;
+}

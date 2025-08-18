@@ -1,0 +1,1720 @@
+.webdesign {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.webdesign .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 5622px;
+  position: relative;
+}
+
+.webdesign .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1084px;
+  top: 0;
+  left: 0;
+  background-image: url(../img/rectangle-1441.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.webdesign .frame {
+  display: flex;
+  width: 344px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 8px 8px 20px;
+  position: absolute;
+  top: 504px;
+  left: 548px;
+  background-color: #ffffff26;
+  border-radius: 42px;
+  border: 0.86px solid;
+  border-color: #ffffff99;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.webdesign .text-wrapper {
+  position: relative;
+  width: 130px;
+  height: 25px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.webdesign .akar-icons-search-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 11px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #e58311;
+  border-radius: 24px;
+}
+
+.webdesign .akar-icons-search {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+
+.webdesign .group {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  top: 2px;
+  left: 2px;
+}
+
+.webdesign .vector {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: -1px;
+  left: -1px;
+}
+
+.webdesign .group-2 {
+  position: absolute;
+  width: 484px;
+  height: 22px;
+  top: 41px;
+  left: 493px;
+}
+
+.webdesign .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.webdesign .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .eva-arrow-ios-back {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  transform: rotate(-90.00deg);
+}
+
+.webdesign .img {
+  position: absolute;
+  width: 10px;
+  height: 6px;
+  top: 6px;
+  left: 4px;
+  transform: rotate(90.00deg);
+}
+
+.webdesign .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 164px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: 269px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 409px;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-6 {
+  position: absolute;
+  top: 39px;
+  left: 80px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+}
+
+.webdesign .make-your-interior {
+  position: absolute;
+  top: 160px;
+  left: 290px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: -0.80px;
+  line-height: 104.0px;
+}
+
+.webdesign .p {
+  position: absolute;
+  width: 606px;
+  top: 382px;
+  left: 418px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38.4px;
+}
+
+.webdesign .ellipse-wrapper {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 743px;
+  left: 103px;
+  background-color: #ffffff33;
+  border-radius: 16px;
+  border: 0.86px solid;
+  border-color: #ffffff99;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.webdesign .ellipse {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  top: 10px;
+  left: 10px;
+  background-color: #ffffff;
+  border-radius: 5.14px;
+  transform: rotate(180deg);
+}
+
+.webdesign .div-wrapper {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 777px;
+  left: 800px;
+  background-color: #ffffff33;
+  border-radius: 16px;
+  border: 0.86px solid;
+  border-color: #ffffff99;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.webdesign .group-3 {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 809px;
+  left: 1369px;
+  background-color: #ffffff33;
+  border-radius: 18.5px;
+  border: 0.86px solid;
+  border-color: #ffffff99;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.webdesign .ellipse-2 {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  top: 12px;
+  left: 12px;
+  background-color: #ffffff;
+  border-radius: 5.95px;
+  transform: rotate(180deg);
+}
+
+.webdesign .overlap-group {
+  position: absolute;
+  width: 40px;
+  height: 34px;
+  top: 41px;
+  left: 1326px;
+}
+
+.webdesign .bag {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  top: 0;
+  left: 0;
+}
+
+.webdesign .iconly-bold-bag {
+  position: relative;
+  width: 26px;
+  height: 28px;
+  top: 3px;
+  left: 4px;
+  background-image: url(./img/combined-shape.svg);
+  background-size: 100% 100%;
+}
+
+.webdesign .element-wrapper {
+  position: absolute;
+  width: 20px;
+  height: 25px;
+  top: 3px;
+  left: 20px;
+  background-color: #e58411;
+  border-radius: 10px / 12.62px;
+}
+
+.webdesign .element {
+  position: absolute;
+  width: 8px;
+  height: 13px;
+  top: 7px;
+  left: 6px;
+}
+
+.webdesign .group-4 {
+  position: absolute;
+  width: 112px;
+  height: 138px;
+  top: 585px;
+  left: 249px;
+}
+
+.webdesign .why-choosing-us {
+  position: absolute;
+  top: 1241px;
+  left: 80px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-7 {
+  position: absolute;
+  width: 284px;
+  top: 1253px;
+  left: 1076px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 29.6px;
+}
+
+.webdesign .group-5 {
+  position: absolute;
+  width: 123px;
+  height: 26px;
+  top: 1358px;
+  left: 1076px;
+}
+
+.webdesign .text-wrapper-8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #e58311;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  white-space: nowrap;
+}
+
+.webdesign .grommet-icons-form {
+  position: absolute;
+  width: 48px;
+  height: 24px;
+  top: 1px;
+  left: 73px;
+}
+
+.webdesign .vector-2 {
+  position: absolute;
+  width: 39px;
+  height: 12px;
+  top: 6px;
+  left: 4px;
+}
+
+.webdesign .text-wrapper-9 {
+  position: absolute;
+  top: 1203px;
+  left: 1076px;
+  opacity: 0.9;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-10 {
+  position: absolute;
+  width: 284px;
+  top: 1253px;
+  left: 452px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 29.6px;
+}
+
+.webdesign .group-6 {
+  position: absolute;
+  width: 123px;
+  height: 26px;
+  top: 1358px;
+  left: 452px;
+}
+
+.webdesign .text-wrapper-11 {
+  position: absolute;
+  top: 1203px;
+  left: 452px;
+  opacity: 0.9;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-12 {
+  position: absolute;
+  width: 284px;
+  top: 1253px;
+  left: 764px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 29.6px;
+}
+
+.webdesign .group-7 {
+  position: absolute;
+  width: 123px;
+  height: 26px;
+  top: 1358px;
+  left: 764px;
+}
+
+.webdesign .text-wrapper-13 {
+  position: absolute;
+  top: 1203px;
+  left: 764px;
+  opacity: 0.9;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 906px;
+  top: 1504px;
+  left: 0;
+  background-color: #f7f7f7;
+}
+
+.webdesign .text-wrapper-14 {
+  position: absolute;
+  top: 49px;
+  left: 525px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .frame-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 6px;
+  position: absolute;
+  top: 134px;
+  left: 546px;
+  background-color: #eeeeee;
+  border-radius: 44px;
+}
+
+.webdesign .frame-4 {
+  display: flex;
+  width: 84px;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 32px;
+}
+
+.webdesign .text-wrapper-15 {
+  position: relative;
+  width: 45px;
+  height: 31px;
+  opacity: 0.8;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  color: #1e1e1e;
+  font-size: 18px;
+  line-height: 33.3px;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.webdesign .frame-5 {
+  display: flex;
+  width: 84px;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px;
+  position: relative;
+  border-radius: 32px;
+}
+
+.webdesign .text-wrapper-16 {
+  position: relative;
+  width: 42px;
+  height: 31px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33.3px;
+  white-space: nowrap;
+}
+
+.webdesign .text-wrapper-17 {
+  position: relative;
+  width: 38px;
+  height: 31px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33.3px;
+  white-space: nowrap;
+}
+
+.webdesign .text-wrapper-18 {
+  position: relative;
+  width: 47px;
+  height: 31px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33.3px;
+  white-space: nowrap;
+}
+
+.webdesign .overlap-3 {
+  position: absolute;
+  width: 1248px;
+  height: 492px;
+  top: 271px;
+  left: 96px;
+}
+
+.webdesign .group-8 {
+  position: absolute;
+  width: 1198px;
+  height: 492px;
+  top: 0;
+  left: 25px;
+}
+
+.webdesign .overlap-group-wrapper {
+  position: absolute;
+  width: 268px;
+  height: 492px;
+  top: 0;
+  left: 0;
+}
+
+.webdesign .overlap-group-2 {
+  position: relative;
+  height: 492px;
+}
+
+.webdesign .rectangle {
+  position: absolute;
+  width: 268px;
+  height: 442px;
+  top: 50px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+.webdesign .rectangle-2 {
+  position: absolute;
+  width: 268px;
+  height: 239px;
+  top: 50px;
+  left: 0;
+}
+
+.webdesign .group-9 {
+  width: 193px;
+  position: absolute;
+  height: 76px;
+  top: 303px;
+  left: 21px;
+}
+
+.webdesign .text-wrapper-19 {
+  position: absolute;
+  width: 189px;
+  top: 26px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #0d1a39;
+  font-size: 21.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-20 {
+  position: absolute;
+  width: 43px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  color: #8d8d8d;
+  font-size: 16.8px;
+  line-height: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.webdesign .group-10 {
+  position: absolute;
+  width: 104px;
+  height: 18px;
+  top: 58px;
+  left: 0;
+}
+
+.webdesign .group-11 {
+  position: absolute;
+  width: 225px;
+  height: 49px;
+  top: 416px;
+  left: 21px;
+}
+
+.webdesign .group-12 {
+  position: absolute;
+  width: 59px;
+  height: 26px;
+  top: 12px;
+  left: 0;
+}
+
+.webdesign .text-wrapper-21 {
+  position: absolute;
+  width: 41px;
+  top: 0;
+  left: 14px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #0d1a39;
+  font-size: 21.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-22 {
+  position: absolute;
+  width: 11px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #0d1a39;
+  font-size: 15.2px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .bx-bx-plus-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 15.23px;
+  padding: 12.19px;
+  position: absolute;
+  top: 0;
+  left: 177px;
+  background-color: #0d1a39;
+  border-radius: 31px;
+}
+
+.webdesign .bx-bx-plus {
+  position: relative;
+  width: 24.37px;
+  height: 24.37px;
+}
+
+.webdesign .vector-3 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 2px;
+  left: 2px;
+}
+
+.webdesign .rectangle-wrapper {
+  position: absolute;
+  width: 218px;
+  height: 256px;
+  top: 0;
+  left: 24px;
+  background-image: url(./img/sakarias-armchair-black-sporda-dark-gray-0729767-pe737131-s5-adobespark-3.png);
+  background-size: 100% 100%;
+}
+
+.webdesign .rectangle-3 {
+  position: absolute;
+  width: 200px;
+  height: 121px;
+  top: 157px;
+  left: 9px;
+}
+
+.webdesign .overlap-wrapper {
+  position: absolute;
+  width: 268px;
+  height: 492px;
+  top: 0;
+  left: 310px;
+}
+
+.webdesign .group-13 {
+  position: absolute;
+  width: 138px;
+  height: 76px;
+  top: 303px;
+  left: 21px;
+}
+
+.webdesign .text-wrapper-23 {
+  position: absolute;
+  width: 134px;
+  top: 26px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #0d1a39;
+  font-size: 21.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .img-wrapper {
+  position: absolute;
+  width: 218px;
+  height: 256px;
+  top: 0;
+  left: 24px;
+  background-image: url(./img/sakarias-armchair-black-sporda-dark-gray-0729767-pe737131-s5-adobespark-4.png);
+  background-size: 100% 100%;
+}
+
+.webdesign .rectangle-4 {
+  position: absolute;
+  width: 200px;
+  height: 92px;
+  top: 181px;
+  left: 10px;
+}
+
+.webdesign .group-14 {
+  position: absolute;
+  width: 268px;
+  height: 492px;
+  top: 0;
+  left: 620px;
+}
+
+.webdesign .group-15 {
+  width: 223px;
+  height: 253px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+}
+
+.webdesign .overlap-group-3 {
+  position: relative;
+  height: 277px;
+}
+
+.webdesign .sakarias-armchair {
+  position: absolute;
+  width: 223px;
+  height: 250px;
+  top: 0;
+  left: 0;
+}
+
+.webdesign .rectangle-5 {
+  position: absolute;
+  width: 197px;
+  height: 109px;
+  top: 168px;
+  left: 13px;
+}
+
+.webdesign .group-16 {
+  position: absolute;
+  width: 268px;
+  height: 492px;
+  top: 0;
+  left: 930px;
+}
+
+.webdesign .group-17 {
+  width: 151px;
+  position: absolute;
+  height: 76px;
+  top: 303px;
+  left: 21px;
+}
+
+.webdesign .text-wrapper-24 {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #0d1a39;
+  font-size: 21.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .group-18 {
+  width: 241px;
+  height: 289px;
+  left: 13px;
+  transform: rotate(180deg);
+  position: absolute;
+  top: 0;
+}
+
+.webdesign .overlap-group-4 {
+  position: relative;
+  height: 289px;
+}
+
+.webdesign .sakarias-armchair-2 {
+  position: absolute;
+  width: 241px;
+  height: 289px;
+  top: 0;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.webdesign .rectangle-6 {
+  position: absolute;
+  width: 207px;
+  height: 89px;
+  top: 32px;
+  left: 22px;
+  transform: rotate(-180deg);
+}
+
+.webdesign .grommet-icons-form-wrapper {
+  top: 221px;
+  left: 1198px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10.87px;
+  padding: 11.96px;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 26.09px;
+  box-shadow: 0px 7.03px 19.53px #0000000f;
+}
+
+.webdesign .vector-wrapper {
+  position: relative;
+  width: 26.09px;
+  height: 26.09px;
+}
+
+.webdesign .vector-4 {
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  top: 6px;
+  left: 3px;
+}
+
+.webdesign .frame-6 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10.87px;
+  padding: 11.96px;
+  position: absolute;
+  top: 221px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 26.09px;
+  transform: rotate(180deg);
+  box-shadow: 0px 7.03px 19.53px #0000000f;
+}
+
+.webdesign .vector-5 {
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  top: 5px;
+  left: 3px;
+  transform: rotate(-180deg);
+}
+
+.webdesign .group-19 {
+  position: absolute;
+  width: 125px;
+  height: 33px;
+  top: 823px;
+  left: 665px;
+}
+
+.webdesign .text-wrapper-25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Gilroy-Medium-☞", Helvetica;
+  font-weight: 400;
+  color: #e58311;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33.3px;
+  white-space: nowrap;
+}
+
+.webdesign .grommet-icons-form-2 {
+  position: absolute;
+  width: 48px;
+  height: 24px;
+  top: 5px;
+  left: 75px;
+}
+
+.webdesign .overlap-4 {
+  position: absolute;
+  width: 728px;
+  height: 591px;
+  top: 2650px;
+  left: -65px;
+}
+
+.webdesign .rectangle-7 {
+  position: absolute;
+  width: 625px;
+  height: 523px;
+  top: 68px;
+  left: 65px;
+  object-fit: cover;
+}
+
+.webdesign .rectangle-8 {
+  position: absolute;
+  width: 495px;
+  height: 422px;
+  top: 0;
+  left: 0;
+  background-color: #f7f7f7;
+  border-radius: 20px;
+}
+
+.webdesign .rectangle-9 {
+  position: absolute;
+  width: 495px;
+  height: 301px;
+  top: 138px;
+  left: 233px;
+  background-color: #f7f7f7;
+  border-radius: 20px;
+}
+
+.webdesign .rectangle-10 {
+  position: absolute;
+  width: 602px;
+  height: 445px;
+  top: 66px;
+  left: 65px;
+}
+
+.webdesign .we-provide-you-the {
+  position: absolute;
+  width: 413px;
+  top: 2774px;
+  left: 743px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-26 {
+  position: absolute;
+  width: 556px;
+  top: 2898px;
+  left: 743px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33.3px;
+}
+
+.webdesign .group-20 {
+  position: absolute;
+  width: 123px;
+  height: 26px;
+  top: 3055px;
+  left: 743px;
+}
+
+.webdesign .experiences {
+  position: absolute;
+  top: 2732px;
+  left: 743px;
+  font-family: "Gilroy-SemiBold-☞", Helvetica;
+  font-weight: 400;
+  color: #e58411;
+  font-size: 18px;
+  letter-spacing: 3.15px;
+  line-height: normal;
+}
+
+.webdesign .overlap-5 {
+  position: absolute;
+  width: 690px;
+  height: 591px;
+  top: 3504px;
+  left: 972px;
+}
+
+.webdesign .rectangle-11 {
+  position: absolute;
+  width: 468px;
+  height: 523px;
+  top: 68px;
+  left: 0;
+  object-fit: cover;
+}
+
+.webdesign .rectangle-12 {
+  position: absolute;
+  width: 495px;
+  height: 422px;
+  top: 0;
+  left: 195px;
+  background-color: #f7f7f7;
+  border-radius: 20px;
+  transform: rotate(180deg);
+}
+
+.webdesign .rectangle-13 {
+  position: absolute;
+  width: 445px;
+  height: 445px;
+  top: 66px;
+  left: 23px;
+  object-fit: cover;
+}
+
+.webdesign .group-21 {
+  position: absolute;
+  width: 223px;
+  height: 250px;
+  top: 3431px;
+  left: 730px;
+}
+
+.webdesign .overlap-6 {
+  position: relative;
+  width: 276px;
+  height: 300px;
+  left: -27px;
+}
+
+.webdesign .rectangle-14 {
+  position: absolute;
+  width: 276px;
+  height: 283px;
+  top: 17px;
+  left: 0;
+}
+
+.webdesign .rectangle-15 {
+  position: absolute;
+  width: 223px;
+  height: 229px;
+  top: 0;
+  left: 27px;
+}
+
+.webdesign .group-22 {
+  position: absolute;
+  width: 223px;
+  height: 338px;
+  top: 3707px;
+  left: 730px;
+}
+
+.webdesign .overlap-7 {
+  position: relative;
+  width: 277px;
+  height: 401px;
+  top: -13px;
+  left: -27px;
+  background-image: url(./img/rectangle-1448.png);
+  background-size: 100% 100%;
+}
+
+.webdesign .rectangle-16 {
+  position: absolute;
+  width: 223px;
+  height: 317px;
+  top: 13px;
+  left: 27px;
+}
+
+.webdesign .very-serious {
+  position: absolute;
+  width: 413px;
+  top: 3596px;
+  left: 80px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-27 {
+  position: absolute;
+  width: 556px;
+  top: 3772px;
+  left: 80px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 33.3px;
+}
+
+.webdesign .group-23 {
+  position: absolute;
+  width: 123px;
+  height: 26px;
+  top: 3896px;
+  left: 80px;
+}
+
+.webdesign .materials {
+  position: absolute;
+  top: 3554px;
+  left: 80px;
+  font-family: "Gilroy-SemiBold-☞", Helvetica;
+  font-weight: 400;
+  color: #e58411;
+  font-size: 18px;
+  letter-spacing: 3.15px;
+  line-height: normal;
+}
+
+.webdesign .group-24 {
+  position: absolute;
+  width: 370px;
+  height: 506px;
+  top: 4439px;
+  left: 536px;
+}
+
+.webdesign .overlap-8 {
+  position: relative;
+  width: 400px;
+  height: 556px;
+  left: -16px;
+}
+
+.webdesign .unsplash {
+  width: 400px;
+  height: 480px;
+  top: 76px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.webdesign .unsplash-2 {
+  width: 370px;
+  height: 476px;
+  top: 0;
+  left: 16px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.webdesign .group-25 {
+  position: absolute;
+  width: 336px;
+  height: 239px;
+  top: 219px;
+  left: 33px;
+}
+
+.webdesign .overlap-9 {
+  position: relative;
+  width: 334px;
+  height: 239px;
+  background-image: url(./img/union-3.svg);
+  background-size: 100% 100%;
+}
+
+.webdesign .group-26 {
+  position: absolute;
+  width: 50px;
+  height: 55px;
+  top: 8px;
+  left: 142px;
+}
+
+.webdesign .overlap-group-5 {
+  position: relative;
+  width: 76px;
+  height: 76px;
+  top: -8px;
+  left: -13px;
+  background-image: url(./img/ellipse-1132-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.webdesign .ellipse-3 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 8px;
+  left: 13px;
+  object-fit: cover;
+}
+
+.webdesign .group-27 {
+  position: absolute;
+  width: 109px;
+  height: 42px;
+  top: 71px;
+  left: 116px;
+}
+
+.webdesign .text-wrapper-28 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .text-wrapper-29 {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  opacity: 0.6;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.webdesign .text-wrapper-30 {
+  position: absolute;
+  width: 252px;
+  top: 135px;
+  left: 42px;
+  opacity: 0.8;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .group-28 {
+  position: absolute;
+  width: 90px;
+  height: 14px;
+  top: 208px;
+  left: 122px;
+}
+
+.webdesign .overlap-10 {
+  position: absolute;
+  width: 395px;
+  height: 506px;
+  top: 4439px;
+  left: 944px;
+}
+
+.webdesign .group-29 {
+  position: absolute;
+  width: 370px;
+  height: 506px;
+  top: 0;
+  left: 0;
+}
+
+.webdesign .overlap-11 {
+  position: relative;
+  width: 334px;
+  height: 239px;
+  background-image: url(./img/union.svg);
+  background-size: 100% 100%;
+}
+
+.webdesign .overlap-group-6 {
+  position: relative;
+  width: 76px;
+  height: 76px;
+  top: -8px;
+  left: -13px;
+  background-image: url(./img/ellipse-1132-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.webdesign .group-30 {
+  width: 103px;
+  left: 119px;
+  position: absolute;
+  height: 42px;
+  top: 71px;
+}
+
+.webdesign .text-wrapper-31 {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .frame-7 {
+  top: 144px;
+  left: 345px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10.87px;
+  padding: 11.96px;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 26.09px;
+  box-shadow: 0px 7.03px 19.53px #0000000f;
+}
+
+.webdesign .overlap-12 {
+  position: absolute;
+  width: 395px;
+  height: 506px;
+  top: 4439px;
+  left: 102px;
+}
+
+.webdesign .group-31 {
+  position: absolute;
+  width: 370px;
+  height: 506px;
+  top: 0;
+  left: 25px;
+}
+
+.webdesign .overlap-13 {
+  position: relative;
+  height: 506px;
+}
+
+.webdesign .overlap-group-7 {
+  position: relative;
+  width: 400px;
+  height: 556px;
+  left: -13px;
+}
+
+.webdesign .unsplash-hqhxlbn {
+  position: absolute;
+  width: 370px;
+  height: 476px;
+  top: 0;
+  left: 13px;
+  object-fit: cover;
+}
+
+.webdesign .group-32 {
+  position: absolute;
+  width: 336px;
+  height: 239px;
+  top: 219px;
+  left: 18px;
+}
+
+.webdesign .overlap-14 {
+  position: relative;
+  width: 334px;
+  height: 239px;
+  background-image: url(./img/union-2.svg);
+  background-size: 100% 100%;
+}
+
+.webdesign .overlap-group-8 {
+  position: relative;
+  width: 76px;
+  height: 76px;
+  top: -8px;
+  left: -13px;
+  background-image: url(./img/ellipse-1132.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.webdesign .group-33 {
+  width: 115px;
+  left: 113px;
+  position: absolute;
+  height: 42px;
+  top: 71px;
+}
+
+.webdesign .text-wrapper-32 {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .frame-8 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10.87px;
+  padding: 11.96px;
+  position: absolute;
+  top: 144px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 26.09px;
+  transform: rotate(180deg);
+  box-shadow: 0px 7.03px 19.53px #0000000f;
+}
+
+.webdesign .group-34 {
+  position: absolute;
+  width: 417px;
+  height: 94px;
+  top: 4285px;
+  left: 502px;
+}
+
+.webdesign .text-wrapper-33 {
+  position: absolute;
+  width: 413px;
+  top: 42px;
+  left: 0;
+  font-family: "Gilroy-Bold-☞", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 42px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.webdesign .testimonials {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  font-family: "Gilroy-SemiBold-☞", Helvetica;
+  font-weight: 400;
+  color: #e58411;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 3.15px;
+  line-height: normal;
+}
+
+.webdesign .nav {
+  position: absolute;
+  width: 1440px;
+  height: 462px;
+  top: 5160px;
+  left: 0;
+}
+/* Original CSS code should be injected here */
+
+/* Additional semantic and accessibility improvements */
+.why-choosing-section {
+  position: absolute;
+  width: 100%;
+  top: 1203px;
+  left: 0;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  position: absolute;
+  top: 0;
+  left: 452px;
+  width: 908px;
+}
+
+.feature-item {
+  position: relative;
+}
+
+.experiences-section {
+  position: absolute;
+  width: 100%;
+  top: 2650px;
+  left: 0;
+}
+
+.materials-section {
+  position: absolute;
+  width: 100%;
+  top: 3431px;
+  left: 0;
+}
+
+.testimonials-section {
+  position: absolute;
+  width: 100%;
+  top: 4285px;
+  left: 0;
+}
+
+.testimonials-carousel {
+  position: relative;
+  width: 100%;
+  top: 154px;
+}
+
+/* Enhanced button and interactive element styles */
+button {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+
+button:hover {
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+button:focus-visible {
+  outline: 2px solid #e58311;
+  outline-offset: 2px;
+}
+
+/* Enhanced link styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+a:focus-visible {
+  outline: 2px solid #e58311;
+  outline-offset: 2px;
+}
+
+/* Tab navigation improvements */
+[role="tab"] {
+  cursor: pointer;
+}
+
+[role="tab"]:hover {
+  background-color: rgba(229, 131, 17, 0.1);
+}
+
+[role="tab"][aria-selected="true"] {
+  background-color: #ffffff;
+}
+
+[role="tab"][aria-selected="false"] {
+  background-color: transparent;
+}
+
+/* Screen reader only content */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Improved form elements */
+input[type="search"] {
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-family: "Gilroy-Regular-☞", Helvetica;
+  font-size: 18px;
+  width: 100%;
+}
+
+input[type="search"]::placeholder {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+input[type="search"]:focus {
+  outline: none;
+}
+
+/* Enhanced carousel navigation */
+.testimonials-carousel article {
+  position: absolute;
+}
+
+.testimonials-carousel button {
+  z-index: 10;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .features-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .webdesign .div {
+    width: 100%;
+    min-width: 320px;
+  }
+}
